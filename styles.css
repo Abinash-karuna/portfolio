@@ -1,0 +1,277 @@
+
+.top{
+    text-align: center;
+}
+img{
+    height:300px;
+    width:300px;
+    margin:0px;
+}
+.navi a {
+   
+   
+    
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue color, adjust as needed */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    
+    padding: 10px;
+    margin-right: 0px; /* Adjust margin between buttons */
+    text-align:right;
+    
+    
+    
+    
+}
+.navi {
+    text-align: right; /* Align text to the right */
+    margin-top: 20px; /* Adjust margin as needed */
+    margin-right:25%;
+    display:flex;
+    justify-content: flex-end;
+    gap:3px;
+
+}
+.navi a:hover{
+    background-color: #0056b3;
+    
+}
+
+img {
+    float: left;
+    margin-right: 50px;
+    width: 500px; 
+    height: auto; 
+}
+.middle h2{
+    color: n;
+    font-family: Garamond;
+    font-size: 300%;
+    text-align: center;
+
+}
+.middle h3{
+    text-align: center;
+    font-family:Garamond;
+    font-size: 250%;
+    
+}
+.middle p{
+    font-size:200%;
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      width:100%;
+    }
+  }
+  
+  .name{
+    font-size: Garamond;
+  }
+  header{
+    background-color: gray;/* For Safari */
+  position: sticky;
+  top: 0;
+   
+  }
+ .gap{
+    height:75px;
+  }
+.about h2{
+    margin-left:50% ;
+
+            top: 50px; /* Adjust as needed */
+            left: 100px;
+}
+.about P{
+    font-size:150%;
+    text-align: justify;
+    padding-left-: 100px;
+    padding: auto;
+    right:200px;
+    
+}
+#resume a{
+    
+   margin-left: 50%;
+    text-align: center;
+    border:1px solid black;
+}
+#resume a {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+#resume a:hover {
+    background-color: #0056b3; /* Change background color on hover */
+}
+
+
+.skills{
+    height:150px;
+    width: 150px;
+    background-color: #007bff;
+    color: black;
+border-radius: 10px;    
+
+}
+.skills h2{
+   font-size: 18px;
+   background-color: gray;
+
+}
+.skills p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.free{
+    height:100px;
+    width:50%;
+    margin-bottom: 200px;
+    margin-left:25%;
+}
+.tech{
+    background-color:#007bff;
+    width:150px;
+    height:150px;
+    border-radius: 10px;
+   
+
+}
+.tech h2{
+    font-size: 18px;
+    text-align: center;
+    background-color: gray;
+}
+.tech p{
+    font-size:20px;
+  
+    
+    text-align: center;
+
+}
+.combine{
+   display: flex;
+   gap:10px;
+   margin-left:250px;
+}
+.soft{
+    background-color: #007bff;
+    width:150px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+.soft h2{
+    font-size:18px;
+    text-align:center;
+    background-color: gray;
+}
+.soft p{
+    font-size:20px;
+    text-align: center;
+}
+.Area{
+    background-color: #007bff;
+    width:200px;
+    height:150px;
+    border-radius: 10px;
+
+}
+.Area h2{
+    font-size:18px;
+    text-align:center;
+    background-color: gray;
+}
+.Area p{
+    
+    font-size:20px;
+    text-align: center;
+}
+/*.box{
+    background-color: aqua;
+    width:220px;
+    height:150px;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 50px;
+    border-radius: 10px;
+}*/
+
+#college {
+    background-color: #9CAFAA;
+    height:50px;
+    width:425px;
+    padding:10px;
+    border-radius: 10px;
+    text-align: center;
+}
+#twelve{
+    background-color: #EFBC9B;
+    height:50px;
+    width:180px;
+    padding:10px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+#ten{
+    background-color: lightpink;
+    height:50px;
+    width:180px;
+    padding:10px;
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+.education{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.inside{
+   
+    margin:30px
+}
+.all{
+    display:flex;
+    align-items: center;
+    
+}
+footer{
+    text-align: center;
+    background-color: #9CAFAA;
+}
+.project{
+    
+    background-color: lightseagreen;
+    width:150px;
+    height:60px;
+    font-size: 30px;
+    text-decoration: none;
+   margin-left: 320px;
+   border-radius: 10px;
+}
+.project a{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    
+   
+
+}
+.final{
+    margin-top: 100px;
+    display: flex;
+}
+
